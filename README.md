@@ -1,31 +1,18 @@
 # leaflet-vector-scalar-js
 
-基于leaflet.js实现的矢量、标量数据可视化Demo。
-包含风场、海浪、洋流、气压、温度等矢量或标量气象数据的可视化展示。
+Display of region data assimilation result by WRFDA
 
-## Demo 视频
+### Reference
 
-[Leaflet动态显示--风场、海浪、洋流、气压、温度等矢量、标量数据](https://v.youku.com/v_show/id_XNDg0OTMzNzUxNg==.html)
-
-## 依赖安装
-```
-npm install
-```
-
-### 本地开发调试
-```
-npm run serve
-```
-### 参考项目
++ [leaflet-vector-scalar-js](https://github.com/AmarsDing/leaflet-vector-scalar-js)
 
 + [leaflet-velocity](https://github.com/danwild/leaflet-velocity)
 
 + [earth](https://github.com/cambecc/earth)
 
-### Demo核心
+### Core
 
-leaflet-vector-scalar.js 是Demo的核心文件。是基于leaflet-velocity（矢量部分） 同时参考 earth（标量部分） 项目来完成的。
-代码还不是很完善，近期可能没有太多时间去修改。
+Most of the code are from leaflet-vector-scalar-js but I have modified the main method of data acquisition.
 
 ### License
 MIT License (MIT)
