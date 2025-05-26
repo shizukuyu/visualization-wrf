@@ -4,7 +4,7 @@ Display of region data assimilation result by WRFDA
 
 
 ## Sample
-![gif](visualization-wrf/animation.gif)
+![WRF Visualization Animation](https://github.com/shizukuyu/visualization-wrf/raw/master/animation.gif)
 
 ## Core
 
