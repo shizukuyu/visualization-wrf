@@ -4,7 +4,7 @@ Display of region data assimilation result by WRFDA
 
 
 ## Sample
-![gif]()
+![gif](visualization-wrf/animation.gif)
 
 ## Core
 
