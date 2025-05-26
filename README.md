@@ -6,10 +6,16 @@ This repository contains tools for visualizing Weather Research and Forecasting 
 ## Sample
 ![WRF Visualization Animation](https://github.com/shizukuyu/visualization-wrf/raw/master/animation.gif)
 
-## Core
 
-Most of the code are from leaflet-vector-scalar-js but I have modified the main method of data acquisition.
+## Features
 
+- 2D and 3D visualization of atmospheric variables
+
+- Custom colormaps for meteorological data
+
+- Interactive plotting capabilities
+
+- Time series analysis tools
 
 
 ## Reference
